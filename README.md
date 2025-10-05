@@ -74,15 +74,15 @@ The model's performance was evaluated using several key metrics, demonstrating i
 #### Training History
 The training and validation curves for accuracy and loss show stable learning with no significant overfitting.
 
-![Training History](./assets/history.png)
+![Training History](./Assets/history.png)
 #### Confusion Matrix
 The confusion matrix highlights the model's excellent ability to distinguish between the two classes, with very few misclassifications.
 
-![Confusion Matrix](./assets/matrix.png)
+![Confusion Matrix](./Assets/matrix.png)
 #### ROC Curve
 An AUC score of 0.99 indicates an outstanding classification performance across all thresholds.
 
-![ROC Curve](./assets/roc.png)
+![ROC Curve](./Assets/roc.png)
 ---
 
 ## 🚀 How to Run
@@ -96,8 +96,8 @@ You can replicate this project by running the provided Jupyter Notebook (`Fire_D
 ### Steps
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
+    git clone [https://github.com/alahi45/Fire-Detection-Using-Deep-Learning.git](https://github.com/alahi45/Fire-Detection-Using-Deep-Learning.git)
+    cd Fire-Detection-Using-Deep-Learning
     ```
 2.  **Install dependencies:**
     ```bash
